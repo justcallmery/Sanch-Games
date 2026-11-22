@@ -1,0 +1,8 @@
+{
+  "name": "SanchGames",
+  "description": "Offline mobile arcade, board, card, word, and puzzle collection with 54 playable games supporting portrait and landscape orientations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
